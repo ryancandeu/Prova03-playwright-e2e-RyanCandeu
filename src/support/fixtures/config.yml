@@ -5,3 +5,5 @@ application:
   sauceDemo: "https://www.saucedemo.com/"
   farmacia: "https://triersistemas.com.br/contato"
   empresa: "https://www.betha.com.br/contato"
+  login_QA: 'https://the-internet.herokuapp.com/login'
+  prefeitura_nova_veneza_QA: 'https://www.novaveneza.sc.gov.br'
